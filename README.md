@@ -1,1 +1,1 @@
-# Proyecto de Git y GitHub 
+# Practica de Git y GitHub 
